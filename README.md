@@ -3,7 +3,7 @@
 <a href="https://colab.research.google.com/github/avantcontra/ukiyoe-portrait-diffusion/blob/main/Ukiyoe_Portrait_Diffusion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
-**Ukiyo-e Portrait Diffusion** (by [avantcontra](https://twitter.com/avantcontra)), is a custom-trained unconditional diffusion model trained on an dataset of 5,000+ 256x256 Ukiyo-e portraits using the [fine-tuning openai diffusion model](https://colab.research.google.com/drive/1Xfd5fm4OnhTd6IHPMGcoqw54uhGT3HdF) notebook by [Alex Spirin](https://twitter.com/devdef).
+**Ukiyo-e Portrait Diffusion** (by [avantcontra](https://twitter.com/avantcontra)), is a custom-trained unconditional diffusion model trained on a dataset of 5,000+ 256x256 Ukiyo-e portraits using the [fine-tuning openai diffusion model](https://colab.research.google.com/drive/1Xfd5fm4OnhTd6IHPMGcoqw54uhGT3HdF) notebook by [Alex Spirin](https://twitter.com/devdef).
 
 **Ukiyo-e Portrait Diffusion** is inspired by [Pixel Art Diffusion](https://github.com/KaliYuga-ai/Pixel-Art-Diffusion) of [KaliYuga](https://twitter.com/KaliYuga_ai).
 
